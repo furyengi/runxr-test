@@ -1,0 +1,5 @@
+steps:
+  - name: List files
+    run: ls
+  - name: Check Node version
+    run: node --version
